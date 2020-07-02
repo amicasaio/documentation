@@ -22,7 +22,7 @@ Our auth service returns validation errors of the form _array of objects_:
 ];
 ```
 
-> This is a thrown error for the signup function when email and password are being provided incorrectly.
+> This is a thrown error for the signup function when email and password are being provided incorrectly by express validator npm package.
 
 The problem comes when we have other services that also throw errors but using other data structure.
 
