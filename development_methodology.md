@@ -1,4 +1,4 @@
-# Development procceses
+# Development process
 
 1. Analysis:
    The first phase of implementing a new functionality or bug fix is to make research.
