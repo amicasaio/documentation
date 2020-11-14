@@ -1,4 +1,4 @@
-# "Commits" semanticos
+# Semantic commits
 
 Good commits can maje the difference between a well-maintained product, and a terrible product. Well-written commits following a standardized format will enable viewers of your codebase to easily understand the type of change, what modules it affected, and why it occurred.
 
